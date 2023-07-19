@@ -3,4 +3,4 @@ Combined with the Ladder Game, this is the my first project I created using obje
 near-identical implementation of Wordle using Java and JavaSwing. Although graphics in Java definitely have their limits, I found a way 
 to create the game. 
 
-This project wsa written in Java during Summer 2022. 
+This project was written in Java during Summer 2022. 
